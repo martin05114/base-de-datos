@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.formulario{
+    width: 25%;
+    margin: auto;
+    border: solid black ;
+    text-align: center;
+    background-color: cadetblue;
+}
